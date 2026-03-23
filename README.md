@@ -27,9 +27,9 @@ The framework is designed with **scalability, maintainability, and reusability**
 * **Language:** Java
 * **Automation Tool:** Rest Assured
 * **Build Tool:** Maven
-* **Test Framework:** TestNG / JUnit
+* **Test Framework:** TestNG
 * **Logging:** Log4j
-* **Reporting:** Extent Reports / Allure Reports
+* **Reporting:** Extent Reports
 * **Version Control:** Git & GitHub
 
 ---
@@ -85,12 +85,22 @@ PetStoreAPIAutomation/
 
 ## Sample Test Scenarios
 
-* Create a new pet
-* Get pet details by ID
-* Update pet information
-* Delete pet
-* Validate response status and body
-* Negative test scenarios
+## Pet Module
+
+* Create, update, delete, and fetch pet details
+* Find pets by status
+* Positive & negative validations
+
+## User Module
+
+* Create, update, delete, and fetch user details
+* User login & logout
+* Positive & negative validations
+
+## Store Module
+
+* Place, fetch, and delete orders
+* Positive & negative validations
 
 ---
 
