@@ -85,22 +85,18 @@ PetStoreAPIAutomation/
 
 ## Sample Test Scenarios
 
-## Pet Module
+* **Pet Module**
 
-* Create, update, delete, and fetch pet details
-* Find pets by status
-* Positive & negative validations
+Create, update, delete, fetch pet details and find pets by status
 
-## User Module
+* **User Module**
 
-* Create, update, delete, and fetch user details
-* User login & logout
-* Positive & negative validations
+Create, update, delete, and fetch user details
 
-## Store Module
+* **Store Module**
 
-* Place, fetch, and delete orders
-* Positive & negative validations
+Place, fetch, and delete orders
+
 
 ---
 
