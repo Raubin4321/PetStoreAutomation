@@ -1,6 +1,6 @@
-# 🐾 PetStore API Automation Framework (Rest Assured)
+# PetStore API Automation Framework (Rest Assured)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an **API Automation Framework** built using **Rest Assured** to test the endpoints of the Swagger PetStore API.
 
@@ -10,7 +10,7 @@ The framework is designed with **scalability, maintainability, and reusability**
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * End-to-End API Testing
 * Modular and Scalable Framework Design
@@ -22,7 +22,7 @@ The framework is designed with **scalability, maintainability, and reusability**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Java
 * **Automation Tool:** Rest Assured
@@ -34,7 +34,7 @@ The framework is designed with **scalability, maintainability, and reusability**
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 PetStoreAPIAutomation/
@@ -75,7 +75,7 @@ PetStoreAPIAutomation/
 
 ---
 
-## 🔄 API Modules Covered
+## API Modules Covered
 
 * Pet Module
 * User Module
@@ -83,7 +83,7 @@ PetStoreAPIAutomation/
 
 ---
 
-## 🧪 Sample Test Scenarios
+## Sample Test Scenarios
 
 * Create a new pet
 * Get pet details by ID
@@ -94,7 +94,7 @@ PetStoreAPIAutomation/
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### 1️⃣ Clone the Repository
 
@@ -132,9 +132,8 @@ or
 
 ---
 
-## 🔧 Framework Design Highlights
+## Framework Design Highlights
 
-* Uses **Separation of Concerns**
 * Implements reusable API request methods
 * Supports easy addition of new endpoints
 * Centralized configuration management
