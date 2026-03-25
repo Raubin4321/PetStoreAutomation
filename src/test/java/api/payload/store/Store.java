@@ -1,4 +1,4 @@
-package api.payload;
+package api.payload.store;
 
 public class Store {
 	

@@ -172,3 +172,47 @@
 13:27:16.818 [main] INFO  api.test.StoreTests - ********** Store Order Info is displayed **********
 13:27:16.825 [main] INFO  api.test.StoreTests - ********** Deleting Store **********
 13:27:18.449 [main] INFO  api.test.StoreTests - ********** Store Order deleted **********
+20:20:52.641 [main] INFO  api.test.PetTests - ********** Creating Pet **********
+20:20:55.385 [main] INFO  api.test.PetTests - ********** Pet is created **********
+20:20:55.394 [main] INFO  api.test.PetTests - ********** Reading Pet Info **********
+20:20:56.738 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+20:20:56.743 [main] INFO  api.test.PetTests - ********** Get Pet Info Using Status **********
+20:20:59.15 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+20:22:28.915 [main] INFO  api.test.PetTests - ********** Creating Pet **********
+20:22:31.513 [main] INFO  api.test.PetTests - ********** Pet is created **********
+20:22:31.521 [main] INFO  api.test.PetTests - ********** Reading Pet Info **********
+20:22:32.841 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+20:22:32.847 [main] INFO  api.test.PetTests - ********** Get Pet Info Using Status **********
+20:22:34.988 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+20:24:51.27 [main] INFO  api.test.PetTests - ********** Creating Pet **********
+20:24:53.604 [main] INFO  api.test.PetTests - ********** Pet is created **********
+20:24:53.616 [main] INFO  api.test.PetTests - ********** Reading Pet Info **********
+20:24:54.992 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+20:24:54.997 [main] INFO  api.test.PetTests - ********** Get Pet Info Using Status **********
+20:24:57.208 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+21:31:16.146 [main] INFO  api.test.PetTests - ********** Creating Pet **********
+21:31:18.817 [main] INFO  api.test.PetTests - ********** Pet is created **********
+21:31:18.843 [main] INFO  api.test.PetTests - ********** Reading Pet Info **********
+21:31:20.200 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+21:31:20.205 [main] INFO  api.test.PetTests - ********** Get Pet Info Using Status **********
+21:31:22.381 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+21:33:24.632 [main] INFO  api.test.PetTests - ********** Creating Pet **********
+21:33:27.304 [main] INFO  api.test.PetTests - ********** Pet is created **********
+21:33:27.312 [main] INFO  api.test.PetTests - ********** Reading Pet Info **********
+21:33:28.664 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+21:33:28.670 [main] INFO  api.test.PetTests - ********** Get Pet Info Using Status **********
+21:33:30.850 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+21:36:41.264 [main] INFO  api.test.PetTests - ********** Creating Pet **********
+21:36:44.755 [main] INFO  api.test.PetTests - ********** Pet is created **********
+21:36:44.767 [main] INFO  api.test.PetTests - ********** Reading Pet Info **********
+21:36:46.407 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+21:36:46.434 [main] INFO  api.test.PetTests - ********** Get Pet Info Using Status **********
+21:36:49.376 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+21:40:56.418 [main] INFO  api.test.PetTests - ********** Creating Pet **********
+21:41:00.134 [main] INFO  api.test.PetTests - ********** Pet is created **********
+21:41:00.142 [main] INFO  api.test.PetTests - ********** Reading Pet Info **********
+21:41:01.940 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+21:41:01.975 [main] INFO  api.test.PetTests - ********** Get Pet Info Using Status **********
+21:41:05.119 [main] INFO  api.test.PetTests - ********** Pet Info is displayed **********
+21:41:05.135 [main] INFO  api.test.PetTests - ********** Deleting Pet **********
+21:41:06.805 [main] INFO  api.test.PetTests - ********** Pet deleted **********

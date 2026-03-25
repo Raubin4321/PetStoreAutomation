@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import com.github.javafaker.Faker;
 
 import api.endpoints.UserEndPoints;
-import api.payload.User;
+import api.payload.user.User;
 import io.restassured.response.Response;
 
 public class UserTests {

@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 import com.github.javafaker.Faker;
 
 import api.endpoints.StoreEndPoints;
-import api.payload.Store;
+import api.payload.store.Store;
 import io.restassured.response.Response;
 
 public class StoreTests {

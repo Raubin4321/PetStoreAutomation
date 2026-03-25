@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import api.endpoints.UserEndPoints;
-import api.payload.User;
+import api.payload.user.User;
 import api.utilities.DataProviders;
 import io.restassured.response.Response;
 

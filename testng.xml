@@ -9,8 +9,9 @@
     <test name="PetTests" thread-count="5">
         <classes>
             <!-- <class name="api.test.UserTests"/> -->
-            <class name="api.test.StoreTests"/>
+            <!-- <class name="api.test.StoreTests"/> -->
             <!-- <class name="api.test.DDTests"/> -->
+            <class name="api.test.PetTests"/>
         </classes>
     </test>
 </suite>

@@ -7,7 +7,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
-import api.payload.Store;
+import api.payload.store.Store;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 

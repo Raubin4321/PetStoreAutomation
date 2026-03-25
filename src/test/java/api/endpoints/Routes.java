@@ -20,12 +20,10 @@ public class Routes {
 	public static String update_url = base_url+"/user/{username}";
 	public static String delete_url = base_url+"/user/{username}";
 	
-	//Store Module
-	
-		//Here I will create Store module URL's
-	
 	//Pet Module
-	
-		//Here I will create Pet module URL's
+	public static String pet_post_url = base_url+"/pet";
+	public static String pet_get_url = base_url+"/pet/{petId}";
+	public static String pet_getBystatus_url = base_url+"/pet/findByStatus";
+	public static String pet_delete_url = base_url+"/pet/{petId}";
 
 }
