@@ -37,37 +37,44 @@ The framework is designed with **scalability, maintainability, and reusability**
 ## Project Structure
 
 ```
-PetStoreAPIAutomation/
+PetStoreAPIAutomation
 │
-├── src/
-│   ├── test/
-│   │   ├── java/
-│   │   │   ├── api.endpoints/
-│   │   │   │   ├── PetEndPoints.java
-│   │   │   │   ├── Routes.java
-│   │   │   │   ├── StoreEndPoints.java
-│   │   │   │   ├── UserEndPoints.java
-│   │   │   │
-│   │   │   ├── api.payload/
-│   │   │   │   ├── Pet.java
-│   │   │   │   ├── Store.java
-│   │   │   │   ├── User.java
-│   │   │   │
-│   │   │   ├── api.test/
-│   │   │   │   ├── DDTests.java
-│   │   │   │   ├── PetTests.java
-│   │   │   │   ├── StoreTests.java
-│   │   │   │   ├── UserTests.java
-│   │   │   │
-│   │   │   ├── api.utilities/
-│   │   │       ├── DataProviders.java
-│   │   │       ├── ExtentReportManager.java
-│   │   │       ├── XLUtility.java
+├── src/test/java
+│   ├── api.endpoints
+│   │   ├── PetEndPoints.java
+│   │   ├── StoreEndPoints.java
+│   │   ├── UserEndPoints.java
+│   │   └── Routes.java
 │   │
-│   ├── test/
-│       └── resources/
-│           ├── log4j2.xml
-│           ├── routes.properties
+│   ├── api.payload.pet
+│   │   ├── Pet.java
+│   │   ├── Category.java
+│   │   └── Tag.java
+│   │
+│   ├── api.payload.store
+│   │   └── Store.java
+│   │
+│   ├── api.payload.user
+│   │   └── User.java
+│   │
+│   ├── api.test
+│   │   ├── PetTests.java
+│   │   ├── StoreTests.java
+│   │   ├── UserTests.java
+│   │   └── DDTests.java
+│   │
+│   └── api.utilities
+│       ├── DataProviders.java
+│       ├── ExtentReportManager.java
+│       ├── ResponseUtility.java
+│       └── XLUtility.java
+│
+├── src/test/resources
+│   ├── log4j2.xml
+│   └── routes.properties
+│
+├── reports/                (Extent Reports)
+├── responses/              (Saved API Responses)
 │
 ├── pom.xml
 └── testng.xml
@@ -102,19 +109,19 @@ Place, fetch, and delete orders
 
 ## How to Run the Project
 
-### 1️⃣ Clone the Repository
+### 1️. Clone the Repository
 
 ```
 git clone https://github.com/Raubin4321/PetStoreAutomation.git
 ```
 
-### 2️⃣ Navigate to Project Folder
+### 2. Navigate to Project Folder
 
 ```
 cd PetStoreAutomation
 ```
 
-### 3️⃣ Run Tests Using Maven
+### 3. Run Tests Using Maven
 
 ```
 mvn clean test
@@ -122,7 +129,7 @@ mvn clean test
 
 ---
 
-## 📊 Reporting
+## Reporting
 
 After execution, reports can be found in:
 
