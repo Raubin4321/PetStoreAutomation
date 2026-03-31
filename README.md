@@ -1,4 +1,4 @@
-# PetStore API Automation Framework (Rest Assured)
+# PetStore API Automation Framework
 
 ## Project Overview
 
